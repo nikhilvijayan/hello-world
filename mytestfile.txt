@@ -10,7 +10,6 @@ git status
 git commit -m "message"
 git log
 git remote -v
-git branch -a
 git diff
 git push origin master
 git branch
