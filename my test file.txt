@@ -1,2 +1,15 @@
-hi..
-this is a test file..
+Hi.
+This is a test file.
+For learning basic git commands
+Some of the commands are:-
+git config [git config --global user.name "username" ::: git config --global user.email "user@emailddress.com"]
+git init
+git status
+git add filename or git add -A
+git status
+git commit -m "message"
+git log
+git remote -v
+git branch -a
+git diff
+git push origin master
