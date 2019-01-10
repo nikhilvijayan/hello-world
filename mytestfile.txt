@@ -13,3 +13,4 @@ git remote -v
 git branch -a
 git diff
 git push origin master
+git branch
