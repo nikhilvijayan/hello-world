@@ -2,7 +2,7 @@ Hi.
 This is a test file.
 For learning basic git commands
 Some of the commands are:-
-git config [git config --global user.name "username" ::: git config --global user.email "user@emailddress.com"]
+git config [git config --global user.name "username" ||| git config --global user.email "user@emailddress.com"]
 git init
 git status
 git add filename or git add -A
@@ -12,4 +12,9 @@ git log
 git remote -v
 git diff
 git push origin master
-git branch
+git branch "branchname" [To create a new branch]
+git branch [displays local branches]
+git push origin branchname [pushes the branch to remote repository]
+git branch -a [displays local and remote branches]
+git checkout branchname [chooses prefered branch you want to work currently]
+For example git checkout master ||| git checkout prepodmytestfile
