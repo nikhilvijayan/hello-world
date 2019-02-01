@@ -10,7 +10,7 @@ git status
 git commit -m "message"
 git log
 git remote -v
-git diff
+git diff [To view differences]
 git push origin master
 git branch "branchname" [To create a new branch]
 git branch [displays local branches]
